@@ -1,0 +1,8 @@
+
+* Variables: Espacios para almacenar valores en memoria, y así usarlos más tarde.
+* Strings: Son bloques de texto. Se deben escribir entre comillas simples o dobles.
+* Funciones (argumentos, `return`): son lineas de código escritas para realizar una tarea. 
+ Los argumentos son valores que se le pueden dar a la funcion para que trabaje con ellos.
+ Return es una declaración que sirve para devolver los resultados de una función.
+* Declaraciones `if`: Dividen el código. Si se cumple la condición se ejecuta el código dentro del if.
+* Valores booleanos (`true`, `false`): son valores que pueden tomar solamente dos estados verdadero o falso.
