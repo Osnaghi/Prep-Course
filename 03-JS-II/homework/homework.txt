@@ -1,0 +1,9 @@
+DEFINICIONES:
+
+* `for`: Es un bucle (código a ser repetido bajo ciertas condiciones) en el cual hay que definir una variable llamada iteradora que
+cumple la función de contar, una condición para que se siga ejecutando el bucle mientras está se cumpla y un incremento
+de la variable.
+* `&&`, `||`, `!`: Son operadores lógicos que sirven para agregar condiciones. 
+El operador '&&' devuelve verdadero si se cumplen ambas condiciones, si no devuelve falso.
+El operador '||' devuelve verdadero si alguna de las condiciones se cumple y falso si ninguna se cumple.
+El operador '!' devuelve el valor opuesto al que se le entrega.
