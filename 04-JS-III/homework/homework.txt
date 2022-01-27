@@ -1,0 +1,4 @@
+DEFINICIONES:
+
+* ARRAY: Es una colección de datos. Estos datos pueden ser de cualquier tipo.
+Se declara como variable pero se encierra su contenido entre '[]', cada elemento esta separado por una coma. 
