@@ -1,0 +1,9 @@
+DEFINICIONES
+    * Objetos: es una colección de propiedades se basan en pares de clave y valor, la clave sirve para acceder al valor almacenado.
+	* Propiedades: es la relación entre una clave y un valor.
+	* Métodos: es una función propia de un objeto.
+	* Bucle `for…in`: es similar a un bucle for, pero se debe declarar una variable que representa cada elemento a recorrer, 
+	y la palabra 'in' seguida del nombre del objeto.
+	* Notación de puntos vs notación de corchetes: para acceder a los valores de un objeto hay dos opciones, 
+	usar el nombre del objeto, un punto y el nombre de la clave. o si no, con corchetes luego del nombre del objeto 
+	y dentro de estos la clave entre comillas.
