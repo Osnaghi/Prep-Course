@@ -1,0 +1,4 @@
+DEFINICIONES:
+
+* `prototype`: Es un objeto desde el cual otros objetos heredan propiedades y métodos.
+* _Constructors_ (de Clases): es una funcion que se crea para definir las caracteristicas comunes de los objetos de una clase.
