@@ -1,0 +1,3 @@
+DEFINICIONES:
+
+ CALLBACK: Es una funcion que es pasada como argumento a otra funcion. Y pueden ser llamada dento de ésta última.
