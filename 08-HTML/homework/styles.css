@@ -1,0 +1,42 @@
+body {
+    background-image: url(https://www.recetasparavivirmejor.com/wp-content/uploads/2021/06/recetasparavivirmejor_carne_con_verduras_carnes_2021.jpg);
+    background-position: center center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 100%;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+#thirdDiv {
+    padding: 50px;
+    border: 2px solid rgb(46, 55, 63);
+    background-color: rgb(184, 199, 213);
+    width: 500px; 
+    height: 600px;
+}
+
+#thirdDiv img {
+    width: 400px;
+}
+
+#thirdDiv ul {
+    list-style: none;
+}
+
+.divClass h1 {
+    color:rgb(60, 112, 172);
+}
+
+.divClass {
+    color: aliceblue;
+    text-align: center;
+}
+
+.divClass a {
+    color: aliceblue;
+}
